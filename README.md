@@ -1,2 +1,2 @@
-# Boton-CSGO
- Botones con reproducciones de sonido e imagenes.
+# Botones CSGO
+ Botones que reproducen sonidos e imagenes.
